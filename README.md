@@ -1,7 +1,7 @@
 ## Olá! Eu sou o André Gonçalves 👋
 
 ### Sobre mim
-#### Tenho 16 anos, atualmente estou cursando T.I em tempo integral no Instituto Federal do Ceará (IFCE) campus de Maranguape. Estou iniciando minha jornada no github 
+#### Tenho 16 anos, moro em Maranguape no estado do Ceará e atualmente estou cursando T.I em tempo integral no Instituto Federal do Ceará (IFCE) campus de Maranguape. Estou iniciando minha jornada no github 
 
 
 ### 📚💻 Projetos da instituição
